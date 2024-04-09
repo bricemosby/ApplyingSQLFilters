@@ -1,4 +1,4 @@
-<h1>Applying Filters To SQL queries</h1>
+<h1>Applying Filters To SQL Queries</h1>
 
 
 <h2>Description</h2>
